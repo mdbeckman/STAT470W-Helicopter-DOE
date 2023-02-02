@@ -1,0 +1,39 @@
+---
+title: "STAT 470W Paper Helicopter Optimization Case Study"
+author: "Matthew Beckman"
+date: ""
+output: pdf_document
+---
+
+Child care programs often prepare many possible activities to offer the children. Many are intended to promote creative play or curiosity to explore how things work.  A child care center wants to keep a stock of paper helicopters on hand, and we want to help them develop an optimal design. 
+
+Your objective is to determine which factors affect the flight time of paper helicopters, with the ultimate goal of optimizing helicopter design for the longest flight. A complete analysis should also comment on observations related to variability and undesirable flight behaviors (tumbling). You will need to design at least two experiments (one screening design and one optimization design), construct the paper helicopters, collect the data, analyze the data, and write a statistical analysis report.
+
+The **budget for your project must not utilize more than 60 helicopters total**, for all experiments, confirmation runs, construction waste, and a prototype to test your design. 
+
+
+You may use <http://www.paperhelicopterexperiment.com> to design your helicopters for this case study. 
+
+
+
+
+## Screening Experiment
+
+- Choose at least 6 factors to include in the screening design;   
+- Design a fractional factorial experiment, build the helicopters, and collect the data;  
+- Analyze the data to identify active factors.  
+
+
+
+
+## Response Surface Experiment
+
+- Choose at least 2-3 explanatory variables to optimize;  
+- Design a response surface experiment, build the necessary helicopters, and collect the data;  
+- Analyze the optimization data you collected.  
+
+
+
+
+## Confirmation Runs & Prototype
+- Be sure to save some resources for confirmation runs of the final design and a prototype to share with the class.
